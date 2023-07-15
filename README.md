@@ -4,7 +4,7 @@ My name is Sam Gerrick De Silva from San Luis, Batangas. And I’m Frontend Reac
 
 #### 🔗 My Personal Gmail
 
-[![Gmail](./assets/gmail.svg)](mailto:desilva.sam17.sgds@gmail.com)
+[![Gmail](./assets/gmail-logo.svg)](mailto:desilva.sam17.sgds@gmail.com)
 
 #### 💻 Technologies that I use
 
