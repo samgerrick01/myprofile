@@ -8,4 +8,4 @@ My name is Sam Gerrick De Silva and I’m Frontend ReactJS Developer. On this pa
 
 #### 💻 Technologies that I use
 
-[![HTML5](./assets/html.svg)](https://en.wikipedia.org/wiki/HTML5#:~:text=HTML5%20is%20a%20markup%20language,as%20the%20HTML%20Living%20Standard.) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
+[![HTML5](./assets/html.svg)](https://en.wikipedia.org/wiki/HTML5) [![CSS3](./assets/css.svg)](https://en.wikipedia.org/wiki/CSS) [![Bootstrap](./assets/bootstrap.svg)](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>) [![TailwindCSS](./assets/tailwind.svg)](https://en.wikipedia.org/wiki/Tailwind_CSS) [![JavaScript](./assets/javascript.svg)](https://en.wikipedia.org/wiki/JavaScript) [![React](./assets/react.svg)](<https://en.wikipedia.org/wiki/React_(software)>)
