@@ -1,6 +1,6 @@
 ### ✨ Who am I?
 
-My name is Sam Gerrick De Silva from San Luis, Batangas. And I’m Frontend ReactJS Developer. On this page you will find all of the code snippets that I share.
+My name is Sam Gerrick De Silva from San Luis, Batangas. And I’m Frontend ReactJS/React Native Developer. On this page you will find all of the code snippets that I share.
 
 #### 🔗 My Personal Gmail
 
